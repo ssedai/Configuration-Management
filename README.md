@@ -1,0 +1,1 @@
+The goal of the project is to merge two branches to the master branch with one containing the stubbed version and the other containing the implementation version. However, throughout the project it is to learn about git commands such as managing repositories and branches and commiting. 
